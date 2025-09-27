@@ -1,0 +1,4 @@
+/* Font Awesome CDN proxy - minimal file
+   Keeps only the CDN import to avoid referencing local webfonts.
+*/
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css");
